@@ -1,6 +1,6 @@
 Trail Usar list 
 
-1S0S7S1S6SuS0S_SaS7S1S6
+1→0→1→3→7→u→0→_→a→1→3→7
 
 1→0→2→4→8→u→0→_→a→2→4→8
 
