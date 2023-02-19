@@ -1,5 +1,7 @@
 One night trail
 
+SPY1→a1c→0→a1c→2→a1c→9→a1c→7→a1c→u→a1c→0→a1c→_→a1c→a→a1c→2→a1c→9→a1c→71x1→SAT
+
 SPY1→a1c→0→a1c→4→a1c→7→a1c→0→a1c→u→a1c→0→a1c→_→a1c→a→a1c→4→a1c→7→a1c→01x1→SAT
 
 SPY1→a1c→0→a1c→2→a1c→4→a1c→7→a1c→u→a1c→0→a1c→_→a1c→a→a1c→2→a1c→4→a1c→71x1→SAT
