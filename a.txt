@@ -14,6 +14,7 @@ SPY1→a1c→0→a1c→2→a1c→2→a1c→9→a1c→u→a1c→0→a1c→_→a1c
 
 SPY1→a1c→0→a1c→5→a1c→7→a1c→6→a1c→u→a1c→0→a1c→_→a1c→a→a1c→5→a1c→7→a1c→61x1→SAT
 
+SPY1→a1c→0→a1c→3→a1c→2→a1c→2→a1c→u→a1c→0→a1c→_→a1c→a→a1c→3→a1c→2→a1c→21x1→SAT
 
 
 
