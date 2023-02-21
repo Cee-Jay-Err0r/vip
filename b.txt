@@ -20,6 +20,8 @@ SPY1→a1c→0→a1c→3→a1c→2→a1c→2→a1c→u→a1c→0→a1c→_→a1c
 
 SPY1→a1c→0→a1c→4→a1c→9→a1c→1→a1c→u→a1c→0→a1c→_→a1c→a→a1c→4→a1c→9→a1c→11x1→SAT
 
+SPY1→a1c→0→a1c→4→a1c→9→a1c→1→a1c→u→a1c→0→a1c→_→a1c→a→a1c→4→a1c→9→a1c→11x1→SAT
+
 1→0→2→2→0→u→0→_→a→2→2→0
 
 1→0→1→9→8→u→0→_→a→1→9→8
