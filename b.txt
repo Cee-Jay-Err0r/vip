@@ -1,42 +1,23 @@
 102481→0→2→4→8→u→0→_→a→2→4→8u0_a248
 
 X
-
 101951→0→1→9→5→u→0→_→a→1→9→5u0_a195
 
-One night trail
 
-SPY1→a1c→0→a1c→4→a1c→8→a1c→4→a1c→u→a1c→0→a1c→_→a1c→a→a1c→4→a1c→8→a1c→41x1→SAT
-
-SPY1→a1c→0→a1c→2→a1c→9→a1c→7→a1c→u→a1c→0→a1c→_→a1c→a→a1c→2→a1c→9→a1c→71x1→SAT
-
-SPY1→a1c→0→a1c→4→a1c→7→a1c→0→a1c→u→a1c→0→a1c→_→a1c→a→a1c→4→a1c→7→a1c→01x1→SAT
-
-SPY1→a1c→0→a1c→2→a1c→4→a1c→7→a1c→u→a1c→0→a1c→_→a1c→a→a1c→2→a1c→4→a1c→71x1→SAT
-
-SPY1→a1c→0→a1c→2→a1c→7→a1c→8→a1c→u→a1c→0→a1c→_→a1c→a→a1c→2→a1c→7→a1c→81x1→SAT
-
-SPY1→a1c→0→a1c→2→a1c→2→a1c→9→a1c→u→a1c→0→a1c→_→a1c→a→a1c→2→a1c→2→a1c→91x1→SAT
-
-SPY1→a1c→0→a1c→5→a1c→7→a1c→6→a1c→u→a1c→0→a1c→_→a1c→a→a1c→5→a1c→7→a1c→61x1→SAT
-
-SPY1→a1c→0→a1c→2→a1c→4→a1c→8→a1c→u→a1c→0→a1c→_→a1c→a→a1c→2→a1c→4→a1c→81x1→SAT
-
-SPY1→a1c→0→a1c→3→a1c→2→a1c→2→a1c→u→a1c→0→a1c→_→a1c→a→a1c→3→a1c→2→a1c→21x1→SAT
-
-SPY1→a1c→0→a1c→4→a1c→9→a1c→1→a1c→u→a1c→0→a1c→_→a1c→a→a1c→4→a1c→9→a1c→11x1→SAT
-
-SPY1→a1c→0→a1c→4→a1c→9→a1c→1→a1c→u→a1c→0→a1c→_→a1c→a→a1c→4→a1c→9→a1c→11x1→SAT
 
 1→0→2→2→0→u→0→_→a→2→2→0
 
+1#0#2#4#8#u#0#_#a#2#4#8
+
+1#0#2#1#9#u#0#_#a#2#1#9
+
 1→0→1→9→8→u→0→_→a→1→9→8
 
-Repol
+Repol 
 
 SPY1→a1c→0→a1c→4→a1c→2→a1c→1→a1c→u→a1c→0→a1c→_→a1c→a→a1c→4→a1c→2→a1c→11x1→SAT
 
-Rohit 
+Rohit
 
 1→0→2→1→8→u→0→_→a→2→1→8
 
@@ -44,41 +25,9 @@ SPY1→a1c→0→a1c→2→a1c→1→a1c→7→a1c→u→a1c→0→a1c→_→a1c
 
 102171→0→2→1→7→u→0→_→a→2→1→7u0_a217
 
-Test one night Feb 12
-
-Test xx
-
-1→0→2→2→7→u→0→_→a→2→2→7
-
-Test pro
-
-1→0→2→4→8→u→0→_→a→2→4→8
-
-Test x
-
-1→0→3→1→9→u→0→_→a→3→1→9
-
 Rex 
 
 1→0→4→2→1→u→0→_→a→4→2→1
-
-Polass
-
-1→0→2→9→7→u→0→_→a→2→9→7
-
-
-Trail x 
-
-1→0→2→4→7→u→0→_→a→2→4→7
-
-
-Feb 3 2023 (15)
-
-1→0→1→9→7→u→0→_→a→1→9→7
-
-Feb 7 2023 (15)
-
-1→0→3→2→1→u→0→_→a→3→2→1
 
 Feb 9 2023 (15)
 
@@ -92,7 +41,7 @@ Feb 12 2023 (15)
 
 1→0→2→7→8→u→0→_→a→2→7→8
 
-Feb 15 2023 (15)
+Feb 15 2023(15)
 
 SPY1→a1c→0→a1c→5→a1c→3→a1c→7→a1c→u→a1c→0→a1c→_→a1c→a→a1c→5→a1c→3→a1c→71x1→SAT
 
