@@ -47,7 +47,9 @@ SPY1→a1c→0→a1c→5→a1c→3→a1c→7→a1c→u→a1c→0→a1c→_→a1c
 
 SPY1→a1c→0→a1c→3→a1c→1→a1c→1→a1c→u→a1c→0→a1c→_→a1c→a→a1c→3→a1c→1→a1c→11x1→SAT
 
+Feb 25 2023 (17)
 
+101861→0→1→8→6→u→0→_→a→1→8→6u0_a186
 
 
 
